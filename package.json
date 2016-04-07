@@ -1,0 +1,21 @@
+{
+  "name": "keyboard-char-filter",
+  "description": "Filter out non characters from keyboard events.",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo 'TODO'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/orangemug/keyboard-char-filter.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "devDependencies": {
+    "debug": "^2.2.0"
+  }
+}
