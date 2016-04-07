@@ -1,7 +1,7 @@
 {
   "name": "keyboard-char-filter",
   "description": "Filter out non characters from keyboard events.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "scripts": {
     "test": "echo 'TODO'"
   },
