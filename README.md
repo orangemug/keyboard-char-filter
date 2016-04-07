@@ -1,7 +1,6 @@
 # keyboard-char-filter
 Filter out non characters from keyboard events.
 
-[![Build Status](https://travis-ci.org/orangemug/keyboard-char-filter.svg?branch=master)](https://travis-ci.org/orangemug/keyboard-char-filter)
 [![Dependency Status](https://david-dm.org/orangemug/keyboard-char-filter.svg)](https://david-dm.org/orangemug/keyboard-char-filter)
 [![Dev Dependency Status](https://david-dm.org/orangemug/keyboard-char-filter/dev-status.svg)](https://david-dm.org/orangemug/keyboard-char-filter#info=devDependencies)
 
